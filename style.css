@@ -20,7 +20,7 @@
   border:4px solid white;
   border-radius: 50%;
   margin-left: 20px;
-  transform: translate(0, 50%);
+  transform: translate(0, 30%);
 }
 #image-default {
 /*background-image: linear-gradient(to right, #6db37e, #e9f7ec, #bae6c3);*/
