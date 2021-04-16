@@ -48,7 +48,11 @@ background-repeat: no-repeat;
 }
 .about{
   font-family: Arial;
-  
+
+}
+.Abt{
+  margin-top: 20px;
+  margin-left: 12px;
 }
 .homeIcon{
   color: white;
